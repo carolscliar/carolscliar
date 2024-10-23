@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a>
 
-<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_Net_Framework.svg" alt="aspnet" width="40" height="40"/> 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/> 
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </a>
+
 
                                                                                                                                       
 
