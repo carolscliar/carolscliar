@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Carolina Scliar</h1>
+<h1 align="center">I'm Carolina Scliar</h1>
 <h3 align="center">A passionate FullStack Developer from Brazil, living in Portugal</h3>
 
 - 📫 How to reach me **scliarcarol@gmail.com**
